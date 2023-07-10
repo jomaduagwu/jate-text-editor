@@ -24,7 +24,7 @@ console.log('Data saved to the database', result);
 // await store.add(content);
 };
 
-// TODO: Add logic for a method that gets all the content from the database
+// Added logic for a method that gets all the content from the database
 export const getDb = async () => {
 console.log('GET from the database');
 const jateDB = await openDB('jate', 1);
