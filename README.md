@@ -17,7 +17,7 @@
 
 
   ## Usage
-  The application has been deployed to Heroku. The URl of the deployed application is _____________.
+  The application has been deployed to Heroku. The URl of the deployed application is https://boiling-peak-78668-577e53190bfc.herokuapp.com/.
 
 To install the application on your local computer, click the install button on the screen.
   
